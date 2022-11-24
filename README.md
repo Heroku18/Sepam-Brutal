@@ -21,7 +21,7 @@ $ pkg install python3
 $ pip install requests
 $ pip install bs4
 $ pip install keyboard
-$ git clone 
+$ git clone https://github.com/Judhas/Sepam-Brutal.git
 $ cd spambrutalv3
 $ ls
 $ python bot.py
