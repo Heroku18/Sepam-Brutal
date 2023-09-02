@@ -28,5 +28,5 @@ $ python bot.py
 ```
 ## Support Me On
 <br>
-<b>• [Youtube(https://m.youtube.com/@adtafadesaintgrafis3537)</b>
+<b>• [Youtube(https://youtube.com/@heroku1?si=c4huDpU0ut6IVuIh)</b>
 </br>
